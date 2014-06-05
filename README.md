@@ -1,7 +1,7 @@
-tinylittle
-==========
+Tiny Little Toolkit -tl-
+========================
 
-Tiny little toolkit for PHP
+Tiny little toolkit for PHP is a very light toolkit to enhance 'raw php' experience.
 
 
 Howto use ?
